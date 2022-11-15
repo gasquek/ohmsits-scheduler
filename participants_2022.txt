@@ -1,35 +1,36 @@
-Personal,PR,Inventarie
-Ordförande,Mat
-Personal,Bar,PR,Mat
-Lokal,Inventarie
-Ordförande,Bar
-Bar,IT,Inventarie
+Personal, PR, Inventarie
+Ordförande, Mat
+Personal, Bar, PR, Mat
+Lokal, Inventarie
+Ordförande, Bar
+Bar, IT, Inventarie
 Ordförande
-Lokal,PR,Inventarie
+Lokal, PR, Inventarie
 Lokal
-Ordförande,Inventarie
-Lokal,Bar,IT,Mat
-Ordförande,Inventarie
-PR,Mat
-IT,Mat,Inventarie
-IT,Inventarie
-Bar,Inventarie
+Ordförande, Inventarie
+Lokal, Bar, IT, Mat
+Ordförande, Inventarie
+PR, Mat
+IT, Mat, Inventarie
+IT, Inventarie
+Bar, Inventarie
 Mat
-Lokal,IT,PR,Inventarie
-Ordförande,IT,PR
-IT,Inventarie
+Lokal, IT, PR, Inventarie
+Ordförande, IT, PR
+IT, Inventarie
 Inventarie
-Bar,IT
-Lokal,Personal
-Lokal,Personal
-Bar,IT
-Mat,Inventarie
-Personal,Bar,Inventarie
+Bar, IT
+Lokal, Personal
+Lokal, Personal
+Bar, IT
+Mat, Inventarie
+Personal, Bar, Inventarie
 Lokal
-IT,Inventarie
+IT, Inventarie
+Ordförande
 IT,Personal,Mat
 Inventarie,Bar,PR
-Lokal,Inventarie,Bar,Personal
+Lokal,Bar,Personal
 PR,Mat
 Bar
 Ordförande,Inventarie,Personal
